@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>http://185.216.27.172/</loc><priority>1.0</priority><changefreq>monthly</changefreq></url>
+  <url><loc>http://185.216.27.172/services/chauffage</loc><priority>0.9</priority><changefreq>monthly</changefreq></url>
+  <url><loc>http://185.216.27.172/services/entretien</loc><priority>0.9</priority><changefreq>monthly</changefreq></url>
+  <url><loc>http://185.216.27.172/services/depannage</loc><priority>0.9</priority><changefreq>monthly</changefreq></url>
+  <url><loc>http://185.216.27.172/services/plomberie</loc><priority>0.8</priority><changefreq>monthly</changefreq></url>
+  <url><loc>http://185.216.27.172/services/frigoriste</loc><priority>0.8</priority><changefreq>monthly</changefreq></url>
+  <url><loc>http://185.216.27.172/services/energie</loc><priority>0.8</priority><changefreq>monthly</changefreq></url>
+  <url><loc>http://185.216.27.172/services/erreur</loc><priority>0.8</priority><changefreq>monthly</changefreq></url>
+  <url><loc>http://185.216.27.172/tarifs</loc><priority>0.8</priority><changefreq>monthly</changefreq></url>
+  <url><loc>http://185.216.27.172/apropos</loc><priority>0.6</priority><changefreq>yearly</changefreq></url>
+  <url><loc>http://185.216.27.172/rdv</loc><priority>0.8</priority><changefreq>yearly</changefreq></url>
+</urlset>

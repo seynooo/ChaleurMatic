@@ -1,0 +1,40 @@
+/* ============================================================
+   Chaleurmatic – variables.css
+   Toutes les variables CSS globales du projet.
+   Modifier ici = se répercute automatiquement sur tout le site.
+   ============================================================ */
+
+:root {
+
+  /* ── Couleurs de fond ── */
+  --black:    #141210;      /* Fond principal (noir chaud) */
+  --charcoal: #1c1917;      /* Fond sections */
+  --dark:     #242120;      /* Fond sections alternées */
+  --panel:    #2d2a28;      /* Fond des cartes / panels */
+
+  /* ── Bordures ── */
+  --border:   rgba(255, 255, 255, 0.12);    /* Bordure visible */
+  --border2:  rgba(232, 24, 90, 0.40);      /* Bordure accent fuchsia */
+
+  /* ── Couleur principale — Fuchsia (logo) ── */
+  --fuchsia:  #f31b38;      /* Couleur primaire — accents, boutons */
+  --fuchsia2: #c2c2c2;      /* Fuchsia foncé — hover boutons */
+  --fuchsia3: #ff2d6e;      /* Fuchsia clair — effets lumineux */
+
+  /* ── Couleur secondaire — Ambre (urgences) ── */
+  --amber:    #f97316;      /* Orange ambre — boutons urgence */
+
+  /* ── Textes ── */
+  --white:    #ffffff;      /* Texte principal — blanc pur */
+  --off:      #e8e2dc;      /* Texte secondaire */
+  --muted:    #b8b4c0;      /* Texte labels — bien lisible */
+
+  /* ── Typographie ── */
+  --font-display: 'Barlow Condensed', sans-serif;   /* Titres, nav, labels */
+  --font-body:    'Barlow', sans-serif;             /* Corps de texte */
+
+  /* ── Rayons de bordure ── */
+  --radius:    4px;         /* Boutons, inputs */
+  --radius-lg: 12px;        /* Cartes, panels */
+
+}

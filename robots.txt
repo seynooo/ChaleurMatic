@@ -1,0 +1,12 @@
+# robots.txt — Chaleurmatic
+# https://www.chaleurmatic.com
+
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://www.chaleurmatic.com/sitemap.xml
+
+# Bloquer les fichiers inutiles pour les bots
+Disallow: /node_modules/
+Disallow: /*.json$
